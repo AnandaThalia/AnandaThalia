@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnandaThalia
-- 👀 I’m interested in Backend Develover
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Software Development especially in Software Quality Assurance
+- 🌱 I’m currently learning Automation testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Please reach me through email ananda.thalia1701@gmail.com or Linkedin https://www.linkedin.com/in/ananda-thalia-631763191/
 
 <!---
 AnandaThalia/AnandaThalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
