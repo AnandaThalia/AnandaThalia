@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ananda Thalia</h1>
 <h3 align="center">Interested in software development especially in software quality assurance and have been actively developing my manual and automation test skills through online courses, bootcamps, and projects.</h3>
 
+(img align="right" alt="Coding" width="400" src="https://asset-a.grid.id//crop/0x0:0x0/360x240/photo/2022/09/09/grammarjpg-20220909080742.jpg")
+
 - 🌱 I’m currently learning **automation testing**
 
 - 📫 How to reach me **Email ananda.thalia1701@gmail.com or Linkedin https://www.linkedin.com/in/ananda-thalia/**
