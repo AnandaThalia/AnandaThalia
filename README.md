@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananda Thalia</h1>
-<h3 align="center">I am a quality assurance automation practitioner with one year of experience. I have a strong interest in pursuing a career in the technology industry. My skills encompass both manual and automated testing for UI and API, performance testing, test planning, and proficient bug reporting. I am recognized for my attention to detail, quick adaptability, and a strong drive for continuous learning in the field of quality assurance practices.</h3>
+<h3 align="center">I am a quality assurance automation practitioner with two years of experience. I have a strong interest in pursuing a career in the technology industry. My skills encompass both manual and automated testing for UI and API, performance testing, test planning, and proficient bug reporting. I am recognized for my attention to detail, quick adaptability, and a strong drive for continuous learning in the field of quality assurance practices.</h3>
 <img align="right" alt="Coding" width="300" src="https://asset-a.grid.id//crop/0x0:0x0/360x240/photo/2022/09/09/grammarjpg-20220909080742.jpg">
 
 📫 How to reach me **Email ananda.thalia1701@gmail.com or Linkedin https://www.linkedin.com/in/ananda-thalia/**
