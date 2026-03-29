@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananda Thalia</h1>
 <h3 align="center">I am a QA Automation practitioner . I have a strong interest in pursuing a career in the technology industry. I have skills for manual and automated testing mobile, website and API, performance testing, test planning, and bug reporting. I am recognized for my quick adaptability, and a strong drive for continuous learning in the field of quality assurance practices.</h3>
-<img align="right" alt="Coding" width="300" src="https://asset-a.grid.id//crop/0x0:0x0/360x240/photo/2022/09/09/grammarjpg-20220909080742.jpg">
+<img align="right" alt="Coding" width="300" src="https://mcusercontent.com/1457b93a72055d742ba50404b/images/21e4e13d-ed25-d695-878c-b3158e791838.png">
 
 - 📫 How to reach me **Email ananda.thalia1701@gmail.com or Linkedin https://www.linkedin.com/in/ananda-thalia/**
 
