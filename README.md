@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **Email ananda.thalia1701@gmail.com or Linkedin https://www.linkedin.com/in/ananda-thalia/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1llpMZIMfd-SJmKIgRD-AKXZu5PvzKWcF/view?usp=sharing](https://drive.google.com/file/d/1llpMZIMfd-SJmKIgRD-AKXZu5PvzKWcF/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ananda-thalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda-thalia" height="30" width="40" /></a>
